@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+aside, main {
+    margin: 3.5rem 0;
+}
+
+aside {
+    margin-left: 18rem;
+}
+
+main {
+    margin-left: -3rem;
+}
+
+.main-title {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fb-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fgt-pss {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.download-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-fb-img {
+    width: 20px;
+    height: auto;
+}
+
+.ps-img, .ms-img {
+    width: 100px;
+    height: auto;
+}
+
+a img {
+    margin: 10px;
+}
+
+li {
+    list-style: none;
+}
